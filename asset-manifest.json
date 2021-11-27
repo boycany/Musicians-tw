@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Musicians-tw/static/css/main.2dddee72.chunk.css",
+    "main.js": "/Musicians-tw/static/js/main.f710013d.chunk.js",
+    "main.js.map": "/Musicians-tw/static/js/main.f710013d.chunk.js.map",
+    "runtime-main.js": "/Musicians-tw/static/js/runtime-main.45bea230.js",
+    "runtime-main.js.map": "/Musicians-tw/static/js/runtime-main.45bea230.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Musicians-tw/static/css/2.31461e4f.chunk.css",
+    "static/js/2.c7271ed5.chunk.js": "/Musicians-tw/static/js/2.c7271ed5.chunk.js",
+    "static/js/2.c7271ed5.chunk.js.map": "/Musicians-tw/static/js/2.c7271ed5.chunk.js.map",
+    "static/js/3.5544d60d.chunk.js": "/Musicians-tw/static/js/3.5544d60d.chunk.js",
+    "static/js/3.5544d60d.chunk.js.map": "/Musicians-tw/static/js/3.5544d60d.chunk.js.map",
+    "index.html": "/Musicians-tw/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Musicians-tw/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.2dddee72.chunk.css.map": "/Musicians-tw/static/css/main.2dddee72.chunk.css.map",
+    "static/js/2.c7271ed5.chunk.js.LICENSE.txt": "/Musicians-tw/static/js/2.c7271ed5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45bea230.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.c7271ed5.chunk.js",
+    "static/css/main.2dddee72.chunk.css",
+    "static/js/main.f710013d.chunk.js"
+  ]
+}
