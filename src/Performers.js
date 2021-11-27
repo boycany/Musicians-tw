@@ -3,7 +3,7 @@ export const Performers = [
         id: 1, 
         name: 'Super Napkin',
         url: 'http://www.supernapkin.com/',
-        imgSrc: 'http://www.supernapkin.com/uploads/7/4/0/4/74040971/super-napkin-there-s-nothing-that-cannot-beat-me-lp-cover_orig.jpg'
+        imgSrc: 'https://lh3.googleusercontent.com/proxy/81QoMN_aC_a8FR4I5OIJiZb_MvPn9JQdWF5ZIg7CfsCAsRkCaEzcQj3AEuViJYrhatg-ebOeOI4txsaG-CpQ5E9C2Dd1yVl4tygYx59RLMvqQmRtkQg'
     },
     {
         id: 2, 
@@ -63,7 +63,7 @@ export const Performers = [
         id: 11, 
         name: 'Super Napkin',
         url: 'http://www.supernapkin.com/',
-        imgSrc: 'http://www.supernapkin.com/uploads/7/4/0/4/74040971/super-napkin-there-s-nothing-that-cannot-beat-me-lp-cover_orig.jpg'
+        imgSrc: 'https://lh3.googleusercontent.com/proxy/81QoMN_aC_a8FR4I5OIJiZb_MvPn9JQdWF5ZIg7CfsCAsRkCaEzcQj3AEuViJYrhatg-ebOeOI4txsaG-CpQ5E9C2Dd1yVl4tygYx59RLMvqQmRtkQg'
     },
     {
         id: 12, 

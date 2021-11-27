@@ -36,7 +36,7 @@ class App extends React.Component  {
         
         })
         
-        console.log(filterPerformers) 
+        // console.log(filterPerformers) 
 
         return (
             <div className="tc">
