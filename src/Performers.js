@@ -3,7 +3,7 @@ export const Performers = [
         id: 1, 
         name: 'Super Napkin',
         url: 'http://www.supernapkin.com/',
-        imgSrc: 'https://lh3.googleusercontent.com/proxy/81QoMN_aC_a8FR4I5OIJiZb_MvPn9JQdWF5ZIg7CfsCAsRkCaEzcQj3AEuViJYrhatg-ebOeOI4txsaG-CpQ5E9C2Dd1yVl4tygYx59RLMvqQmRtkQg'
+        imgSrc: 'https://cdn1.cybassets.com/media/W1siZiIsIjEzODc4L3Byb2R1Y3RzLzMyNzgwODU5LzE2MTA0MzU2MjlfNGVmMDNhNGNmODk4MDI1OTQ5YjYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=d1a5f27c68b19993'
     },
     {
         id: 2, 
@@ -63,7 +63,7 @@ export const Performers = [
         id: 11, 
         name: 'Super Napkin',
         url: 'http://www.supernapkin.com/',
-        imgSrc: 'https://lh3.googleusercontent.com/proxy/81QoMN_aC_a8FR4I5OIJiZb_MvPn9JQdWF5ZIg7CfsCAsRkCaEzcQj3AEuViJYrhatg-ebOeOI4txsaG-CpQ5E9C2Dd1yVl4tygYx59RLMvqQmRtkQg'
+        imgSrc: 'https://cdn1.cybassets.com/media/W1siZiIsIjEzODc4L3Byb2R1Y3RzLzMyNzgwODU5LzE2MTA0MzU2MjlfNGVmMDNhNGNmODk4MDI1OTQ5YjYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=d1a5f27c68b19993'
     },
     {
         id: 12, 
